@@ -1,0 +1,4 @@
+#! /usr/local/bin/node --use_strict /aientist/clients/cli/fire.js
+=fn main
+ ::$ Hello world
+>> main
